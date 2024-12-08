@@ -22,7 +22,7 @@ export default function MyComponent() {
             <div className={styles.navItem2}>Our Features</div>
             <div className={styles.navItem3}></div>
           </div>
-          <div className={styles.navItem32}>Contact Us</div>
+          <div className={styles.navItem32}></div>
         </div>
         <div className={styles.div} />
         <div className={styles.smartSavingsStartWithSmartSpendings}>
